@@ -6,7 +6,8 @@
 
 ## Kaggle Leaderboard
 
-![Kaggle Leaderboard](leaderboard.png)
+<img width="1509" height="204" alt="image" src="https://github.com/user-attachments/assets/fee48ef3-e3e1-4e0a-a2b6-52b20c151d1e" />
+
 
 **Score: 0.62727 | Rank: 51 | Team: Prithvi Poddar**
 
