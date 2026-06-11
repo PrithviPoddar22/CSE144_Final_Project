@@ -34,7 +34,7 @@ CSE144-Final-Project/
 ## Model Weights
 
 Trained model weights (`best_model.pth`) are hosted on Google Drive:  
-**[Download best_model.pth](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)**
+**[Download best_model.pth](https://drive.google.com/file/d/1K6KPXHZtVucujbZKzsnHv9pmMIVgPSff/view?usp=drive_link)**
 
 ---
 
